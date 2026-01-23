@@ -26,7 +26,7 @@ void toggleRunIsr()
   }
 }
 
-//small wait that lets us stop fast
+//small wait that lets me stop it fast
 void waitMs(int ms)
 {
   for (int i = 0; i < ms; i += 10)
